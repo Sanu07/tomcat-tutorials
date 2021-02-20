@@ -13,5 +13,6 @@ keytool -genkey -keyalg RSA -alias myKey -keystore E:\java-study-material\tomcat
 
 mysql-connector-jar  https://downloads.mysql.com/archives/c-j/
 
-jstl-api-1.2 jar   http://www.java2s.com/Code/Jar/j/Downloadjstlapi12sourcesjar.htm 
+jstl-api-1.2 jar   http://www.java2s.com/Code/Jar/j/Downloadjstlapi12sourcesjar.htm
+
 jstl-1.2 jar  http://www.java2s.com/Code/Jar/j/Downloadjstl12jar.htm 
